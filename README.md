@@ -1,3 +1,3 @@
-# Learning about the Propoerty industry
+# Learning about the Property Industry - Property24
 
 ## Using SQL , GBash , SSMS, Visual Studio, 
