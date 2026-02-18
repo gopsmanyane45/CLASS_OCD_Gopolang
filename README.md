@@ -1,3 +1,3 @@
-## Learning about the Propoerty industry
+# Learning about the Propoerty industry
 
-# Using SQL , GBash , SSMS, Visual Studio, 
+## Using SQL , GBash , SSMS, Visual Studio, 
